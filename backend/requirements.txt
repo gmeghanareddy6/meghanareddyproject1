@@ -1,0 +1,16 @@
+flask
+flask-cors
+python-dotenv
+werkzeug
+youtube-transcript-api
+PyPDF2
+python-pptx
+python-docx
+Pillow
+transformers
+torch
+torchaudio
+keybert
+yt-dlp
+sentencepiece
+ffmpeg-python
